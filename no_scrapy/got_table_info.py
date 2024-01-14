@@ -35,4 +35,4 @@ for table in all_episods_table:
 
 
 with open ('no_scrapy/got_table_info.json', 'w') as f:
-    json.dump(episods, f)
+    json.dump(episods, f, indent=4)

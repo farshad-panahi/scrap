@@ -34,5 +34,5 @@ for table in all_episods_table:
             episods.append(episods_to_dict)
 
 
-with open ('scrambled_data.json', 'w') as f:
+with open ('no_scrapy/got_table_info.json', 'w') as f:
     json.dump(episods, f)

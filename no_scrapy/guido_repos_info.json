@@ -1,0 +1,152 @@
+[
+    {
+        "repository": "cpythonPublic",
+        "description": "The Python programming language",
+        "language": "Python",
+        "stars": "220"
+    },
+    {
+        "repository": "gvanrossum.github.ioPublic",
+        "description": "BDFL website",
+        "language": "HTML",
+        "stars": "100"
+    },
+    {
+        "repository": "c-parserPublic archive",
+        "description": "A partial parser for C statements and expression",
+        "language": "Python",
+        "stars": "56"
+    },
+    {
+        "repository": "pepsPublic",
+        "description": "Python Enhancement Proposals",
+        "language": "Python",
+        "stars": "6"
+    },
+    {
+        "repository": "devguidePublic",
+        "description": "GvR's fork of python/devguide",
+        "language": "Python",
+        "stars": "1"
+    },
+    {
+        "repository": "500linesPublic",
+        "description": "500 Lines or Less",
+        "language": "Python",
+        "stars": "294"
+    },
+    {
+        "repository": "old-demosPublic",
+        "description": "Very old demos and examples removed from the cpython repo",
+        "language": "Python",
+        "stars": "79"
+    },
+    {
+        "repository": "patmaPublic archive",
+        "description": "Pattern Matching",
+        "language": "Python",
+        "stars": "1,014"
+    },
+    {
+        "repository": "minithesisPublic",
+        "description": "A very minimal implementation of the core idea of Hypothesis",
+        "language": "Python",
+        "stars": "5"
+    },
+    {
+        "repository": "pythonlabsPublic",
+        "description": "Reconstructed source code for pythonlabs.com",
+        "language": "HTML",
+        "stars": "23"
+    },
+    {
+        "repository": "exceptiongroupPublic",
+        "description": null,
+        "language": "Python",
+        "stars": "5"
+    },
+    {
+        "repository": "http-get-perfPublic",
+        "description": null,
+        "language": "JavaScript",
+        "stars": "8"
+    },
+    {
+        "repository": "pythonlabs-com-azurePublic",
+        "description": null,
+        "language": "Python",
+        "stars": "20"
+    },
+    {
+        "repository": "mypyPublic",
+        "description": "Optional static typing for Python 2 and 3 (PEP484)",
+        "language": "Python",
+        "stars": "26"
+    },
+    {
+        "repository": "ctokPublic",
+        "description": "Expose CPython's tokenizer as a Python class",
+        "language": "C",
+        "stars": "63"
+    },
+    {
+        "repository": "guidos_time_machinePublic",
+        "description": "Guido's time machine",
+        "language": "Python",
+        "stars": "93"
+    },
+    {
+        "repository": "pyxl3Public",
+        "description": "A Python 3 extension for writing structured and reusable inline HTML.",
+        "language": "Python",
+        "stars": "159"
+    },
+    {
+        "repository": "pep550Public",
+        "description": "Stubs and thoughts about PEP 550",
+        "language": "Python",
+        "stars": "11"
+    },
+    {
+        "repository": "mypy-dummyPublic",
+        "description": "Dummy for mypy-lang",
+        "language": "Python",
+        "stars": "9"
+    },
+    {
+        "repository": "mirror-cwi-stdwinPublic",
+        "description": "CWI's HPND-licensed STDWIN lib from the '90s, optional GUI lib in several 1.x Python versions, now hard to find (searched an FTP indexer years ago).\u2000Some minor adjustments to allow compiling on a c\u2026",
+        "language": "C",
+        "stars": "7"
+    },
+    {
+        "repository": "pytypePublic",
+        "description": null,
+        "language": "Python",
+        "stars": "10"
+    },
+    {
+        "repository": "PyjionPublic",
+        "description": "Pyjion - A JIT for Python based upon CoreCLR",
+        "language": "C++",
+        "stars": "15"
+    },
+    {
+        "repository": "path-pepPublic",
+        "description": "PEP for a file system path protocol in Python",
+        "language": "C",
+        "stars": "7"
+    },
+    {
+        "repository": "asyncioPublic",
+        "description": "This project is the asyncio module for Python 3.3. Since Python 3.4, asyncio is part of the standard library.",
+        "language": "Python",
+        "stars": "19"
+    },
+    {
+        "repository": "ballot-boxPublic",
+        "description": "Automatically exported from code.google.com/p/ballot-box",
+        "language": "Python",
+        "stars": "15"
+    }
+]
